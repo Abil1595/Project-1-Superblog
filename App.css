@@ -1,0 +1,177 @@
+ .abi1
+{
+  width: 55%;
+ margin-left: 20px;
+}
+.abi2 
+{
+  margin-left: 25px;
+  font-size: 13px;
+  margin-top: 35px;
+  
+}
+.abi2>img 
+{
+  width: 50%;
+}
+.abi3 
+{
+  background: #43b730;
+ margin-left: 98px;
+ margin-right: 80px;
+cursor: pointer;
+border-radius: 5px;
+width: 30%;
+}
+.img1 
+{
+  width: 15px;
+
+}
+
+.abi4 
+{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 2rem;
+  word-wrap: break-word;
+}
+
+
+
+.abi6 
+{
+  float: left;
+  margin-left: 10px;
+}
+.a1 
+{
+ 
+  background: rgb(246, 246, 246);
+  padding: 20px;
+  color: green;
+}
+.a2 
+{
+  padding: 15px;
+  font-family: 'IBM Plex Serif',system-ui,Roboto,Arial,Helvetica,sans-serif;
+  color: #333;
+}
+.a3 
+{
+  color: #43b730;
+  width: 10%;
+  border-radius: 10px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+}
+.a4 
+{
+  gap: 20px;
+  color: #43b730;
+  width: 20%;
+
+  border-radius: 10px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+}
+.a5 
+{
+  background: rgb(67 183 48 / 10%);
+  text-align: center;
+  padding: 30px;
+
+  border-radius: 20px;
+}
+.a6
+{
+  padding: 15px;
+  font-family: 'IBM Plex Serif',system-ui,Roboto,Arial,Helvetica,sans-serif;
+  color: #333;
+  border: 2px solid #eeeeee;
+  border-radius: 8px;
+}
+.abi10 
+{
+  display: flex;
+}
+
+
+.a9  
+{
+  padding: 20px;
+}
+.a9:hover 
+{
+  color: green;
+}
+.a11
+{
+  color: #43b730;
+  width: 16%;
+  border-radius: 8px;
+  background: rgb(67 183 48 / 10%);
+  border: rgb(67 183 48 / 10%) ;
+  font-size: 14px;
+}
+.a7 
+{
+  width: 100%;
+  padding: 20px;
+}
+.b1 
+{
+  padding: 30px;
+}
+.b1:hover
+{
+  color: green;
+}
+.b2 
+{
+  font-weight: var(--chakra-fontWeights-extrabold);
+  font-family: var(--chakra-fonts-body);
+  font-size: 70px;
+  text-align: center;
+  max-width: var(--chakra-sizes-5xl);
+  color: #2D3748;
+}
+.b3
+{
+  font-weight: var(--chakra-fontWeights-extrabold);
+  font-family: var(--chakra-fonts-body);
+  font-size: 40px;
+  text-align: center;
+  max-width: var(--chakra-sizes-4xl);
+  color: #718096;
+}
+.b4 
+{
+  width: 100%;
+  
+}
+.hov:hover 
+{
+  color: green;
+}
+.c1 
+{
+  height: 100px;
+}
+
+.c2 
+{
+  font-size: 50px;
+  font-weight: bold;
+}
+.c3 
+{
+  font-size: 25px;
+  color: #718096;
+}
+.c4 
+{
+  width: 100%;
+}
